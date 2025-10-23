@@ -4,11 +4,11 @@ const Navbar = () => {
   return (
     <div className="navbar bg-base-100 shadow-sm fixed top-0">
   <div className="flex-1">
-    <a className="btn btn-ghost text-xl">CSE_Tools</a>
+    <a className="btn btn-ghost text-xl">CSETools</a>
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1">
-      <li><a>Link</a></li>
+      <li><a src="https://iiuc.ac.bd/">IIUC Web</a></li>
       <li>
         <details>
           <summary>Parent</summary>
