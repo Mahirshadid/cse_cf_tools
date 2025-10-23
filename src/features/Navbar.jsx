@@ -8,7 +8,7 @@ const Navbar = () => {
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1">
-      <li><a src="https://iiuc.ac.bd/">IIUC Web</a></li>
+      <li><a href="https://iiuc.ac.bd/" target='_blank'>IIUC Web</a></li>
       <li>
         <details>
           <summary>Parent</summary>
